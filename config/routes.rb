@@ -6,4 +6,6 @@ Rails.application.routes.draw do
   root "posts#index"
 
   get '/about', to: 'pages#about'
+  get '/science', to: 'pages#charts'
+  get '/charts', to: 'application#charts'
 end
