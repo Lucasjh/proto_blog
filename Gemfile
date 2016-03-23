@@ -5,7 +5,7 @@ ruby '2.2.3'
 gem 'devise'
 gem 'lazy_high_charts'
 gem 'lunchy'
-gem 'sqlite3'
+## gem 'sqlite3'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.4'
