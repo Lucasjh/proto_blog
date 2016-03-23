@@ -2,7 +2,7 @@
 
 This is a "blog" that I created in December of 2015 while in the introductory Ruby on Rails course taught by Jason Noble at DaVinci Coders. I followed this tutorial by Mackenizie Child to create it: https://mackenziechild.me/12-in-12/2/
 
-This site can beed veiwed at http://lucasjh.xyz
+This site can be veiwed at http://lucasjh.xyz
 
 As you will notice, this tut includes the use of the devise gem and has a view for posts and comments on posts. I have decided to create another blog using mdlite (under construction) so I am currently using this one as a landing page to link to some other important places and to demonstrate my use of the 'lazy_high_charts' gem. It's messy, I know. But it's something.
 
