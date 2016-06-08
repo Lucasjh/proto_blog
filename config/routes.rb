@@ -8,4 +8,5 @@ Rails.application.routes.draw do
   get '/about', to: 'pages#about'
   get '/science', to: 'pages#charts'
   get '/charts', to: 'application#charts'
+  get '/music', to: 'pages#music'
 end
